@@ -40,11 +40,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdayyan011&show_icons=true&locale=en&layout=compact" alt="mdayyan011" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdayyan011&" alt="mdayyan011" /></p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
