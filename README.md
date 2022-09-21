@@ -45,5 +45,5 @@
 <a href="https://linkedin.com/in/md ayyan fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md ayyan fahim" height="30" width="40" /></a>
 <a href="https://fb.com/md ayyan fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md ayyan fahim" height="30" width="40" /></a>
 <a href="https://instagram.com/mdayyan_011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdayyan_011" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mdayyanfahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdayyanfahim" height="30" width="40" /></a>
+
 </p>
